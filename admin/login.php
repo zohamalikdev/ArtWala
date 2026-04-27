@@ -68,6 +68,14 @@ if(isset($_POST['login']))
     <?php endif; ?>
 
     <form method="POST">
+
+        <div class="demo-box">
+            <p><strong>Demo Login</strong></p>
+            <p>Use the following credentials :</p>
+            <p>Email: admin@gmail.com</p>
+            <p>Password: 12345</p>
+        </div>
+        
         <label>Email</label><br>
         <input type="email" name="email" required><br><br>
 
