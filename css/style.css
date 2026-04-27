@@ -426,6 +426,27 @@ body.admin-login form {
   box-shadow: 0 0 15px #00ff88;
 }
 
+/* Demo Pass box */
+.demo-box {
+ 
+  border-left: 4px solid #00ff88;
+  padding: 12px 16px; 
+  margin-bottom: 20px;
+  background: #000;
+  border: 1px solid #00ff88;
+  color: #00ff88;
+  border-radius: 6px;
+  font-size: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.demo-box strong {
+  display: block;
+  font-size: 15px;
+  color: #00ff88;
+  margin-bottom: 5px;
+}
+
 /* Labels */
 body.admin-login label {
   color: #e2eee8;
