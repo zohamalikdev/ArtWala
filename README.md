@@ -31,4 +31,4 @@ This project was developed to understand full-stack web development, database in
 
 ## Author
 Zoha Malik  
-github.com/zohamalikdev
+github.com/zoha-malik01
